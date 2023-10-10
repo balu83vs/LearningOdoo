@@ -1,0 +1,10 @@
+/.venv
+/.vscode
+/nssm
+/PostgreSQL
+/python
+/sessions
+/thirdparty
+/vcredist
+/server
+Uninstall.exe
