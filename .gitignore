@@ -8,3 +8,5 @@
 /vcredist
 /server
 Uninstall.exe
+
+!/server/custom addons
