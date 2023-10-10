@@ -6,7 +6,13 @@
 /sessions
 /thirdparty
 /vcredist
-/server
+/server/addons
+/server/debian
+/server/doc
+/server/odoo
+/server/setup
+/server/*.*
+/server/COPYRIGHT
+/server/LICENSE
+/server/odoo-bin
 Uninstall.exe
-
-!/server/custom addons
